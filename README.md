@@ -47,3 +47,5 @@ If everything goes well, server will print the posted json body from client and 
 [How to send a POST request in Qt with the JSON body](https://stackoverflow.com/questions/60107604/how-to-send-a-post-request-in-qt-with-the-json-body)
 
 [qt-labs/qthttpserver](https://github.com/qt-labs/qthttpserver)
+
+[My Blog post:'QtHttpServer Demo with Client Post'](https://bigbook.plus/2021/08/21/qthttpserver-sample/)

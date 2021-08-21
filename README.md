@@ -41,3 +41,9 @@ to do a http post, run client
 ```
 
 If everything goes well, server will print the posted json body from client and client will print the response message from server.
+
+## References
+
+[How to send a POST request in Qt with the JSON body](https://stackoverflow.com/questions/60107604/how-to-send-a-post-request-in-qt-with-the-json-body)
+
+[qt-labs/qthttpserver](https://github.com/qt-labs/qthttpserver)
